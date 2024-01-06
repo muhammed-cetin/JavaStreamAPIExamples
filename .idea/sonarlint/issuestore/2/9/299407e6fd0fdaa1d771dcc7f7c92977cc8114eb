@@ -1,0 +1,9 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+d
+java:S1854"NRemove this useless assignment to local variable "noOfFemaleAndMaleEmployees".(Ä¯ù
+U
+java:S1481"?Remove this unused "noOfFemaleAndMaleEmployees" local variable.(Ä¯ù
+`
+java:S1144"JRemove this unused private "howManyMaleAndFemaleInTheOrganization" method.(«ÁËı
